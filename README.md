@@ -6,7 +6,7 @@ I created this game after being inspired by a Coding Train video that explained 
 My spin on the game was that it added layers to the game; instead of one layer of asteroids approaching, there are three.
 The goal is to clear out all the ateroids on all the layers.
 
-## How to play 🎮
+## How to Play 🎮
 To play, rotate the ship using the right and left arrow keys on the keyboard.
 Thrust forwards using the upwards arrow key on the keyboard.
 Press *Z* to go down one layer and press *X* to go up one layer.
